@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $('.loaded').html(`
-<h2>BKNM Ltd</h2>
+
           <h4 class="">SHARED</h4>
    <div class="row mt-4 ">
   
